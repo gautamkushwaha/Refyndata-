@@ -1,0 +1,107 @@
+
+
+{
+  "services": [
+    {
+      "topic": "1. Consultation",
+      "image": "https://t4.ftcdn.net/jpg/05/31/01/29/240_F_531012995_eHfqtOwUMewFquhK0TbCqojNtDrxQPPq.jpg",
+      "special_line": "Single or multiple, simple or complex, RefynData can take the guesswork out of your Project Management processes.",
+        "special_line2": "",
+      "description": {
+        "paragraph1": "Our Services refyn data is a leading IT Staffing Augmentation and IT Consulting Solutions company with value-priced services for Government and private  clients. Our Consultants have the right technical skills and business knowledge needed in their field coupled with insights about the Project environment. Business Analysis Nanda Technologies Business Analysis takes a pragmatic, face-to-face approach, performing research and analysis through observation, interviews, design workshops and focus groups. This kind of adaptive, business-focused method coupled with project management and a strong development team ensures customer satisfaction and project success.",
+        "paragraph2": "Refyn Data Technologies provides expert Business Analysts who are equipped with the right business acumen to understand objectives at the highest level in order to elicit and create the requirements for the successful development of a software solution.",
+        "paragraph3": "Our consultants work closely with all project stakeholders, conducting on-site studies to map and prioritize the capabilities of your enterprise as well as to chart its flow of information. They also lead in-depth focus groups with business users to understand how their internal systems can better suit their needs for efficiency."
+      },
+      "points": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "topic": "2. Application Development",
+      "special_line": "Single or multiple, simple or complex, RefynData can take the guesswork out of your Project Management processes.",
+      "image": "service_img/application_development1.jpg",
+        "special_line": "Do you have a challenging business requirement? Then chances are we have the best solution in hand, irrespective of how complex or simple it is.",
+        "special_line2": "With our technological adeptness, we can help you:",
+      "description": {
+        "paragraph1": "We have the expertise to understand your business need, and access to emerging technologies, which can help us work to your advantage. ",
+        "paragraph2": "The ultimate benefits of using a varied array of different technologies are short software development lifecycles and accelerated time-to-market . Throughout the project, our team also works hard to provide you uninterrupted support, measuring milestones on the go, which not only helps you stay informed but perform better as well.",
+        "paragraph3": "Our expertise extends to: Agile App Development | Business Analysis | Dev Ops & App Support | Mobile App Development | QA & Testing | Program & Project Management"
+      },
+      "points": [
+        "1. Applications using Automation, Open Source Software, and SMAC technologies.",
+        "2. Decrease integration time for faster sign-off.",
+        "3. Decrease time-to-market with our short software development lifecycles"
+      ]
+    },
+    {
+      "topic": "3. Project Management",
+      "image": "service_img/project_management.jpg",
+      "special_line": "Single or multiple, simple or complex, RefynData can take the guesswork out of your Project Management processes.",
+       "special_line2": "As part of our Project Management offering we cover:",
+      "description": {
+        "paragraph1": "We assess your current project status and help you create process consistency and improve delivery timelines, without increasing costs. We identify opportunities for the improvement of your entire project management process or just a small portion of it.",
+        "paragraph2": "As a company specializing in product management, we excel in optimizing your project workflow. We analyze your current project status to enhance process consistency and streamline delivery timelines, all without inflating costs.",
+        "paragraph3": "Whether you require improvements across your entire project management spectrum or targeted enhancements in specific areas, our expertise covers it all. From portfolio management to planning and delivery, we provide comprehensive solutions tailored to your needs, ensuring a seamless project launch with our proven contingency plans."
+      },
+      "points": [
+        "1. All aspects of the process from Portfolio Management to Planning and Delivery",
+        "2. Time-tested contingency plans for a smooth Project Launch.",
+        ""
+      ]
+    },
+    {
+      "topic": "4. Big Data",
+      "image": "service_img/big data2.jpg",
+       "special_line": "With big businesses come large volumes of data and complex data workflows. The larger the organization the greater is the need to manage, govern, and organize data volumes, both structured and unstructured.",
+        "special_line2": "With us you can:",
+      "description": {
+        "paragraph1": "RefynData uses a formidable mix of technological tools and data management practices, methodologies, and processes to come up with solutions that help you use data wisely. Our Data Management System works across a blend of digital and legacy platforms. ",
+        "paragraph2": "",
+        "paragraph3": ""
+      },
+      "points": [
+        "1. Capture and store large amounts of data at low costs of investment.",
+        "2. Take better business decisions and maximize opportunities for generating revenue.",
+        "3. Increase operational efficiency for a sharper competitive edge.",
+        "4. Identify opportunities to maximize revenue generation across industry verticals."
+      ]
+    },{
+      "topic": "5. Business Analysis",
+      "image": "service_img/business analysis.jpg",
+      "special_line": "Business success is all about business performance and how well you leverage advancements in technology to take your company forward.",
+       "special_line2": "With RefynData you can:",
+      "description": {
+        "paragraph1": "RefynData has the expertise to track and analyze your existing business model and make it more efficient. We use the most up-market and latest technologies to create innovative solutions that help you reduce costs and control risks so you can enjoy well-earned success.",
+        "paragraph2": "We offer Business Analysis solutions across a wide spectrum of industries including but not limited to FMCG, Distribution, Financial Services, Insurance, Pharmaceuticals and more.",
+        "paragraph3": ""
+      },
+     
+      "points": [
+        "1. Improve your data and business intelligence capabilities.",
+        "2. Protect your sensitive data through stringent cyber security processes.",
+        "3. Improve your business processes through lean systems."
+      ]
+    },
+    {
+      "topic": "6. Mobile App Development",
+      "image": "service_img/mobile application development1.jpeg",
+      "special_line": "Business success is all about business performance and how well you leverage advancements in technology to take your company forward.",
+      "special_line2": "The only thing we need from you is an understanding of what the app should deliver. We take care of everything else. We provide you with:",
+      "description": {
+        "paragraph1": "Education, e-commerce, lifestyle, utilities, travel, gaming – the list of business sectors is endless. So are the number of mobile application development platforms and software available to help you reach your goals.",
+        "paragraph2": "At RefynData we don’t believe in sticking to one type of technology to simply get the job done. We use an amalgamation of the most feasible and versatile software to design the best solution that fits your need. iOS, Android, Windows – we are okay with them all. We are also okay with Hybrid and Web Apps.",
+        "paragraph3": ""
+      },
+      "points": [
+        "1. A set of simplistic, user-friendly, yet appealing UI/UX Designs for you to choose from.",
+        "2. App Development, Testing, Debugging, and Launch facilities.",
+        "3. Post Launch Maintenance and Support."
+      ]
+    }
+   
+
+    
+  ]
+}
